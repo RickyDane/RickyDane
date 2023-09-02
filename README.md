@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickyDane
 - 👀 I’m interested in machine learning, computer science, and so much more ...
-- 🌱 I’m currently learning Rust, C#, Xamarin, App development, Flutter and Tauri
+- 🌱 I’m currently learning Rust and Tauri
 
 <!---
 RickyDane/RickyDane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
