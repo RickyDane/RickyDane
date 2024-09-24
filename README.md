@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
   <tbody<>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rickydane&hide=contribs,prs&theme=calm&show_icons=true" width="200%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=e02gx&hide=contribs,prs&theme=calm&show_icons=true" width="200%"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickydane&repo=codriver&cache_seconds=86400&theme=calm" width="200%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=e02gx&repo=codriver&cache_seconds=86400&theme=calm" width="200%"/>
       </td>
     </tr>
   </tbody>
