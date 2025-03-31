@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <table>
-  <tbody<>
+  <tbody>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=rickydane&hide=contribs,prs&theme=calm&show_icons=true" width="200%"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rickydane&repo=codriver&cache_seconds=86400&theme=calm" width="200%"/>
+        <a href="https://github.com/rickydane/codriver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rickydane&repo=codriver&cache_seconds=86400&theme=calm" width="200%"/></a>
       </td>
     </tr>
   </tbody>
